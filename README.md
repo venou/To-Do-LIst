@@ -1,0 +1,1 @@
+This To-Do List App is a lightweight and responsive web application designed to help users manage daily tasks efficiently. Built with HTML, CSS, and vanilla JavaScript, it allows users to add, complete, and delete tasks with a smooth user interface. All tasks are stored in the browser using localStorage, ensuring data persistence even after refreshing the page.
